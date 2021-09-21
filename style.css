@@ -1,0 +1,25 @@
+body {
+    height: 95vh;
+    font-weight: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(65, 15, 146);
+    border: 1px solid black;
+}
+
+.titulo {
+    font-family: fantasy;
+    
+
+}
+
+footer{
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.rodape{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
